@@ -1,5 +1,6 @@
 # altlayer-2048
 altlayer 2048 auto
+实现简单策略
 
 ## config
 1. accounts.txt 填写账号，格式：地址,私钥 一行一个
